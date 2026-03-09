@@ -6,3 +6,5 @@ User Interface is planned to be more similar to configured Neovim, than
 to original Vi, but in future I guess I can make Vic more configurable
 and give user possibility to choice which interface he wants! 
 
+Currently in not so active development but maybe soon...
+
