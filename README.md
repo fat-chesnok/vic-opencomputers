@@ -1,10 +1,9 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/minecraft-009900?style=for-the-badge)
 
-
 # Vic
-Vic (Vi Cubed) is a text editor for minecraft mod "Open Computers"
-operating system OpenOS inspired by vim. 
+Vic (Vi Cubed) is a text editor for Minecraft mod "Open Computers"
+operating system OpenOS inspired by Vim. 
 
 User Interface is planned to be more similar to configured Neovim, than 
 to original Vi, but in future I guess I can make Vic more configurable
