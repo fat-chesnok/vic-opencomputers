@@ -12,7 +12,12 @@ and give user possibility to choice which interface he wants!
 Currently in not so active development but maybe soon...
 
 # Screenshots
-Here are different color configurations:
+You can configure color theme by editing configuration file `/etc/vic/init.vic`.
+Stock colors are:
+```Lua
+vic.BG_COLOR = 0x1E1E1E
+vic.LINE_COLOR = 0x4B4B4B
+```
 <p align="center">
   <img src="https://github.com/fat-chesnok/vic-opencomputers/blob/0284484a6e8c2a60c2446916dcc183161d38e7b4/ui1.png" 
     width="600" 
