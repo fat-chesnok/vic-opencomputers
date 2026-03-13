@@ -19,23 +19,17 @@ vic.BG_COLOR = 0x1E1E1E
 vic.LINE_COLOR = 0x4B4B4B
 ```
 <p align="center">
-  <img src="https://github.com/fat-chesnok/vic-opencomputers/blob/0284484a6e8c2a60c2446916dcc183161d38e7b4/ui1.png" 
-    width="600" 
-    height="400">
+  <img width="600" height="400" alt="ui1" src="https://github.com/user-attachments/assets/12ba6ec9-6dbc-45ff-92ad-6fcefdf0248c" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://github.com/fat-chesnok/vic-opencomputers/blob/0284484a6e8c2a60c2446916dcc183161d38e7b4/ui2.png" 
-  width="600" 
-  height="400">
+  <img width="600" height="400" alt="ui2" src="https://github.com/user-attachments/assets/fab95357-7e3e-4439-bc3c-85ed8bcea08d" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://github.com/fat-chesnok/vic-opencomputers/blob/0284484a6e8c2a60c2446916dcc183161d38e7b4/ui3.png" 
-  width="600" 
-  height="400">
+  <img width="600" height="400" alt="ui3" src="https://github.com/user-attachments/assets/b1b2d63f-a23f-43bc-88d2-008dcf3a0700" />
 </p>
